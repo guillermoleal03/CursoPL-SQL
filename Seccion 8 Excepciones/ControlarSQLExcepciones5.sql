@@ -22,5 +22,5 @@ EXCEPTION
             reg.region_name
         );
 
-        COMMIT;
+        COMMIT; 
 END;
