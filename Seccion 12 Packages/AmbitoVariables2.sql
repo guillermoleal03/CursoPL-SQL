@@ -1,0 +1,5 @@
+CREATE OR REPLACE PACKAGE pack1 IS
+    v1 NUMBER := 10;
+    v2 VARCHAR2(100);
+END;
+/

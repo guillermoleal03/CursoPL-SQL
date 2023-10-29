@@ -1,0 +1,5 @@
+GRANT
+    CREATE ANY DIRECTORY
+TO hr;
+
+GRANT EXECUTE ON sys.utl_file TO hr;
